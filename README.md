@@ -1,1 +1,1 @@
-Reimagining of https://github.com/dataprofessor/bioinformatics_freecodecamp
+Reimagining of: https://github.com/dataprofessor/bioinformatics_freecodecamp
